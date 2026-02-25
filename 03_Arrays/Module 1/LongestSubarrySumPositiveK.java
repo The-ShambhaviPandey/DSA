@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LongestSubarryaSumPositiveK {
+public class LongestSubarrySumPositiveK {
 
   public static void main(String args[]) {
 
