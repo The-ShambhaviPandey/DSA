@@ -8,9 +8,9 @@ This repo covers everything from **core Java fundamentals** to **data structures
 
 ## Tools & Technologies
 
-- **Language:** Java (JDK 17 or higher)
-- **Editor:** VS Code / IntelliJ IDEA
-- **Build Tool:** javac / Gradle (optional)
+- **Language:** Java (JDK 21)
+- **Editor:** VS Code 
+- **Build Tool:** javac 
 - **Version Control:** Git & GitHub
 
 ---
@@ -50,8 +50,8 @@ This repo covers everything from **core Java fundamentals** to **data structures
 
 ## Additional Resources
 
-- [DSA Roadmap (GeeksforGeeks)](https://www.geeksforgeeks.org/dsa-roadmap-for-beginners/)
 - [Striver’s DSA Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+- [DSA Roadmap (GeeksforGeeks)](https://www.geeksforgeeks.org/dsa-roadmap-for-beginners/)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [LeetCode](https://leetcode.com/)
 
